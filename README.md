@@ -6,13 +6,19 @@ An interactive **Netflix Data Analytics Dashboard** created using Tableau to exp
 
 ## 📊 Dashboard Preview
 
-![Netflix Dashboard](Dashboards/Dashboard0.png)
+<p align="center">
+  <img src="Dashboards/Dashboard0.png" width="18%" />
+  <img src="Dashboards/Dashboard1.png" width="18%" />
+  <img src="Dashboards/Dashboard2.png" width="18%" />
+  <img src="Dashboards/Dashboard3.png" width="18%" />
+  <img src="Dashboards/Dashboard4.png" width="18%" />
+</p>
 
 ---
 
 ## 🔗 Live Dashboard
 
-👉 [View Interactive Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_LINK)
+👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/neeraj.singh1868/viz/Netflix_17779544198340/Dashboard?publish=yes)
 
 ---
 
